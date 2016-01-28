@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="error_dialog_title">Ошибка</string>
+    <string name="error_dialog_button_text">Ок</string>
+    <string name="error_dialog_unknown_error_message">Произошла неизвестная ошибка</string>
+    <string name="error_dialog_web_load_fail_message">Произошла ошибка при загрузке рекламы</string>
+</resources>

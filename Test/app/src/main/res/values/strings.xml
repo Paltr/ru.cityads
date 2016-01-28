@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="error_dialog_button_text">OK</string>
+    <string name="error_dialog_unknown_error_message">Unknown error occurred</string>
+    <string name="error_dialog_web_load_fail_message">Error during ad load</string>
+</resources>
